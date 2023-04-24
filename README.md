@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 #### ⚡️ A Few Quick Facts
 
-<img src="https://github-readme-stats.vercel.app/api?username=XingtongGe&count_private=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=XingtongGe&include_all_commits=true&theme=tokyonight"/>
 
 #### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=blue)
