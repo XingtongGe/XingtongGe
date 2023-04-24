@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=XingtongGe&count_private=true&theme=merko"/>
 
 #### 🔧 Technologies & Tools
+<img src="https://img.shields.io/badge/C++-Compiled-informational?&labelColor=719ace&color=585858">
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DL-PyTorch-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AI-CV-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
