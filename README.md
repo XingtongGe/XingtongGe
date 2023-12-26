@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Xingtong Ge
-- 👀 I’m interested in Image/Video compression and processing.
-- 🌱 I’m currently working on the topic of "Video Coding for Machine(VCM)".
+- 👀 I’m interested in Image/Video Compression and Processing, Gaussian Splatting and Model Compression.
 - 📫 xingtong.ge@gmail.com Feel free to contact me!
 - :soccer: I'm a big football fan btw, we can also talk about football and Barca:red_circle::large_blue_circle:.
 
