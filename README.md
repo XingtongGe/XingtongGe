@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xingtong Ge
+- 👋 Hi, I’m Xingtong Ge, a PhD student at the Hong Kong University of Science and Technology (HKUST)
 - 👀 I’m interested in AIGC, Diffusion Models, Image/Video Compression, and Gaussian Splatting.
 - 📫 xingtong.ge@gmail.com Feel free to contact me!
 - :soccer: I'm a big football fan btw, we can also talk about football and Barca:red_circle::large_blue_circle:.
